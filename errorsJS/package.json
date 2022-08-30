@@ -1,0 +1,20 @@
+{
+  "name": "errorsjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlundandi/JavaScriptExamples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlundandi/JavaScriptExamples/issues"
+  },
+  "homepage": "https://github.com/mrlundandi/JavaScriptExamples#readme"
+}

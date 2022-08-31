@@ -1,0 +1,7 @@
+{"level":"error","message":"This is an error message","service":"user-service"}{"level":"error","message":"ReferenceError: error is not defined","service":"user-service"}
+{"level":"error","message":"This is an error message","service":"user-service"}
+{"level":"error","message":"ReferenceError: error is not defined","service":"user-service"}
+{"level":"error","message":"This is an error message","service":"user-service"}
+{"level":"error","message":"ReferenceError: error is not defined","service":"user-service"}
+{"level":"error","message":"ReferenceError: error is not defined","service":"user-service"}
+{"level":"error","service":"user-service"}
